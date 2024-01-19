@@ -1,1 +1,2 @@
-# 2401-personal-website-pt1
+# Personal Website
+This is my personal website that I have built to showcase a bit about myself as well as my coding skills. My plan for this site is to implement what I have learned, showcase my existing projects, and to give myself a space to grow.
