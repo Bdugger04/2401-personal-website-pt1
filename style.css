@@ -1,0 +1,27 @@
+body {
+  margin: 0
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.menu {
+  background-color: #EFE8E7;
+  height: 4rem;
+  width:100vw;
+  display:flex;
+  justify-content: flex-end;
+  align-items: center;
+
+}
+
+nav>a {
+  margin-right: .7rem;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+  color:#c08b89;
+}
+
+
