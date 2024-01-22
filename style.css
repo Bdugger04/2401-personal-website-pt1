@@ -8,12 +8,13 @@ body {
 
 
 .menu {
-  background-color: #EFE8E7;
+  background-color:#EFE8E7;
   height: 4rem;
   width:100vw;
   display:flex;
   justify-content: flex-end;
   align-items: center;
+  /*#EFE8E7*/
 
 }
 
@@ -24,4 +25,35 @@ nav>a {
   color:#c08b89;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+body>div {
+  display: flex;
+}
+
+
+
+main {
+  min-height: 100vh;
+  min-width: 70vw;
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+
+
+}
+
+aside{
+  min-height: 80vh;
+  min-width: 15vw;
+  background-color: #cebdb5;
+  /* #cebdb5;*/
+}
 
